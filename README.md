@@ -12,3 +12,8 @@ i also wanna learn some d3
 + like demographics data of germany, e.g. the ALLBUS
 
 gonna use angular for it
+
+
+
+for now: allbus 2018
+GESIS - Leibniz-Institut für Sozialwissenschaften (2019). German General Social Survey - ALLBUS 2018. GESIS Datenarchiv, Köln. ZA5272 Datenfile Version 1.0.0, https://doi.org/10.4232/1.13325.
